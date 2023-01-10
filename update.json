@@ -22,7 +22,7 @@
     "horn_version": "v3.0",
     "autoLock_version": "v3.0",
     "doorWindowWarning_version": "v3.0",
-    "joyCoin_version": "v4.0",
+    "joyCoin_version": "v4.1",
     "bmwInfo_updateContent": "“BMW信息填写”发现新版本v5.0，修复了提示SSL错误的问题，优化了授权机制，请下载“BMW授权与更新”配合使用；为使token不过期，请确保每天至少运行BMW相关行快捷指令一次（任一即可，可以是JOY币签到的指令）",
     "auth_updateContent": "“BMW授权与更新”发现新版本v2.0，修复了SSL错误的问题（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRGhVeGtoTFZrWXVY",
     "bmwState_updateContent": "“BMW状态”发现新版本v4.0，修复了提示SSL错误的问题，优化了授权机制，请下载“BMW授权与更新”配合使用（可在BMW控制-更多选项-检查更新中下载最新版）：https://docs.qq.com/doc/DRHJhU2VVSVdWSnl2",
