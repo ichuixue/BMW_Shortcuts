@@ -3,7 +3,7 @@
 let BMW_HEADERS = {
     'Content-Type': 'application/json; charset=utf-8',
     'Accept-Language': 'zh-CN',
-    'x-user-agent': 'ios(16.4.1);bmw;3.3.1(22431)',
+    'x-user-agent': 'ios(16.4.1);bmw;3.5.0(23591)',
 };
 
 async function Login(username, Password) {
@@ -125,7 +125,7 @@ async function getNonce(username) {
   let i1 = iv.substr(0, 8);
   let i2 = iv.substr(8);
 
-  let NonceVersion = "u3.3.1" + username.slice(-4);
+  let NonceVersion = "u3.5.0" + username.slice(-4);
   let SHA256Text = k2 + i1 + NonceVersion + k1 + i2;
 
   let SHA256Hex = CryptoJS.SHA256(SHA256Text).toString(CryptoJS.enc.Hex);
