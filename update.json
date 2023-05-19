@@ -6,6 +6,7 @@
     "alipayURL":"alipayqr://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/fkx183478rpdpgubf8fr403?t=1619346442147",
     "feedbackURL":"https://club.autohome.com.cn/bbs/thread/a885cab9367230b7/95988049-1.html#12",
     "login": "passwd",
+    "coffeeCustomerBenefitId":"683875012221669376",
     "bmwInfoSuccess": "✅恭喜您设置成功，可以继续使用，如果觉得好用，欢迎去BMW控制-更多选项中“打赏”作者哦~",
     "updateContent": "修复了BMW快捷指令提示“去应用市场获取最新版”的问题；“BMW状态”新增胎压和近期里程数据；请再次运行相关快捷指令，会提示你更新。是否看看？（点击去看看，本提示才会消失）",
     "updateDate": "2023/5/20",
