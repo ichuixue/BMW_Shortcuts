@@ -13,7 +13,7 @@
     "updatePopup": "bmwState|auth",
     "updateURL": {"bmwShortcuts":"https://docs.qq.com/doc/DRG5hVkNPQ0VEVHRt","auth":"https://docs.qq.com/doc/DRGhVeGtoTFZrWXVY","bmwState":"https://docs.qq.com/doc/DRHJhU2VVSVdWSnl2","updateLog":"https://docs.qq.com/doc/DRHZKekRrbnRzeEVl","bmwControl":"https://docs.qq.com/doc/DREdlbnZSYXhSaVNk","unlock":"https://docs.qq.com/doc/DRHlITEJXbW1rZkdy","lock":"https://docs.qq.com/doc/DRFN4eWxuSHZqd0NF","lock_unlock":"https://docs.qq.com/doc/DRE1UaUp3VWp3eEhN","climate":"https://docs.qq.com/doc/DRFJaQ1pERXlmWFRM","cooling":"https://docs.qq.com/doc/DRFl0Z1VCS1laUUhw","horn":"https://docs.qq.com/doc/DRER6cEJOWEJSUHNP","autoLock":"https://docs.qq.com/doc/DRGx6b0d4aEhwSGh3","doorWindowWarning":"https://docs.qq.com/doc/DRG1HWndrZW5SbVZi","lightFlash":"https://docs.qq.com/doc/DRG9tRG9UaWdKUkt5","joyCoin":"https://docs.qq.com/doc/DRFBleFFLelduQWxS"},
     "bmwInfo_version": "v5.0",
-    "auth_version":"v3.0",
+    "auth_version":"v3.1",
     "lock_version": "v3.0",
     "bmwControl_version": "v5.0",
     "lightFlash_version": "v3.0",
