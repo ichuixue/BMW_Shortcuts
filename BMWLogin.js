@@ -2,6 +2,7 @@
 
 let BMW_HEADERS = {
     'Content-Type': 'application/json; charset=utf-8',
+    'user-agent': 'Dart/2.18 (dart:io)',
     'Accept-Language': 'zh-CN',
     'x-user-agent': 'ios(16.4.1);bmw;3.5.0(23591)',
 };
